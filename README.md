@@ -1,6 +1,8 @@
-# 🎵 Cassette Animation Flutter App
+# 📺 Cassette Animation Flutter App
 
 A beautiful Flutter application that creates an interactive cassette tape animation with 3D USDZ model integration, image galleries, and smooth transitions.
+
+![Gif](https://github.com/user-attachments/assets/adbda4cd-72d8-4fb5-b2e1-de7b68a3b197)
 
 ## 📱 Features
 
